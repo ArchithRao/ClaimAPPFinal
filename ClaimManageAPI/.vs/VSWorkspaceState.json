@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ClaimManageAPI",
+    "\\ClaimManageAPI\\bin",
+    "\\ClaimManageAPI\\bin\\Release",
+    "\\ClaimManageAPI\\Controllers",
+    "\\ClaimManageAPI\\Data",
+    "\\ClaimManageAPI\\Migrations",
+    "\\ClaimManageAPI\\Models",
+    "\\ClaimManageAPI\\obj"
+  ],
+  "PreviewInSolutionExplorer": false
+}
